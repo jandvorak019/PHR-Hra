@@ -33,7 +33,6 @@ Koncepce - Chůze, šepot, ambience
 
 Hudba ukázka - ve složce music
 
-6. Godot
 
 **(Omlouvám se že jsem nedoložil všechny ingame assety, celková hra má kolem 1 GB)**
 
