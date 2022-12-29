@@ -26,10 +26,12 @@ Level 1 (prototyp) se skládá z open world mapy s travnatými kopci, horami a n
 Hráč se dokáže pohybovat, sprintovat i skákat. Na hráče funguje i skluz (slide).
 
 4. Zvuky / Hudba
+
 (FL Studio)
+
 Koncepce - Chůze, šepot, ambience
 
-Ukázka - ve složce music
+Hudba ukázka - ve složce music
 
 6. Godot
 Prototyp artwork
