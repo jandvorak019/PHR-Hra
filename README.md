@@ -32,7 +32,7 @@ Koncepce - Chůze, šepot, ambience
 Ukázka - ve složce music
 
 6. Godot
-Prototyp 
+Prototyp artwork
 
 ### Ovládací prvky projektu:
 - Pohybujte pomocí `W` `A` `S` `D` nebo `↑` `←` `↓` `→`
