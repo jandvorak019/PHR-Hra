@@ -34,7 +34,7 @@ Koncepce - Chůze, šepot, chůze po trávě, dýchání
 Hudba ukázka - ve složce music
 
 
-**(Omlouvám se že jsem nedoložil všechny ingame assety, celková hra má kolem 1 GB)**
+**(Omlouvám se, že jsem nedoložil všechny ingame assety, celková hra má kolem 1 GB)**
 
 ### Ovládací prvky projektu:
 - Pohybujte pomocí `W` `A` `S` `D` nebo `↑` `←` `↓` `→`
