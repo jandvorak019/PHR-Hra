@@ -29,7 +29,7 @@ Hráč se dokáže pohybovat, sprintovat i skákat. Na hráče funguje i skluz (
 
 (FL Studio)
 
-Koncepce - Chůze, šepot, ambience
+Koncepce - Chůze, šepot, chůze po trávě, dýchání
 
 Hudba ukázka - ve složce music
 
