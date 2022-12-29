@@ -19,6 +19,11 @@ Prototyp artwork
 
 ![prototype](https://user-images.githubusercontent.com/92713632/209987907-52a184b1-da32-4c8d-bbb0-9a9d477b76c4.jpg)
 
+Ikona
+
+![icon](https://user-images.githubusercontent.com/92713632/210007066-025af482-b791-4c96-a232-851880e908f2.png)
+
+
 
 
 3. Level design
