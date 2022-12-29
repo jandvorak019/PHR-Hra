@@ -15,7 +15,7 @@ Model melounu
 
 ![model_meloun](https://user-images.githubusercontent.com/92713632/209986548-014f4d44-fc30-4e86-935c-b71f1d50afce.jpg)
 
-Prototyp
+Prototyp artwork
 
 ![prototype](https://user-images.githubusercontent.com/92713632/209987907-52a184b1-da32-4c8d-bbb0-9a9d477b76c4.jpg)
 
@@ -34,7 +34,8 @@ Koncepce - Chůze, šepot, ambience
 Hudba ukázka - ve složce music
 
 6. Godot
-Prototyp artwork
+
+**(Omlouvám se že jsem nedoložil všechny ingame assety, celkove hra má kolem 1 GB)**
 
 ### Ovládací prvky projektu:
 - Pohybujte pomocí `W` `A` `S` `D` nebo `↑` `←` `↓` `→`
