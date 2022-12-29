@@ -35,7 +35,7 @@ Hudba ukázka - ve složce music
 
 6. Godot
 
-**(Omlouvám se že jsem nedoložil všechny ingame assety, celkove hra má kolem 1 GB)**
+**(Omlouvám se že jsem nedoložil všechny ingame assety, celková hra má kolem 1 GB)**
 
 ### Ovládací prvky projektu:
 - Pohybujte pomocí `W` `A` `S` `D` nebo `↑` `←` `↓` `→`
