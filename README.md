@@ -17,6 +17,9 @@ Galactic Crosspaths je vzrušující 3D platformová hra FPA vytvořená v Godot
 
 
 # Godot
+Prototyp vytvořený v Godot Engine verze 3 nese prvky 3D FPA Skákačky kde hráč prozkoumává prostředí a snaží se najít cestu zpět.
+# Movement
+![code](https://user-images.githubusercontent.com/92713632/227793473-d991d3f2-a16d-4e33-94a8-47e7143bb1b2.png)
 
 
 # Propagace 
