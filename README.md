@@ -7,7 +7,7 @@ Galactic Crosspaths je vzrušující 3D platformová hra FPA vytvořená v Godot
 # Movement
 
 Ovládání projektu:
-Pohybujte pomocí W A S D nebo ↑ ← ↓ →
+Pohybujte pomocí 'W' A S D nebo ↑ ← ↓ →
 Skok s prostorem. Sprintujte se Shiftem
 Otevření portálu pomocí Shift
 Zavřete hru pomocí Esc
