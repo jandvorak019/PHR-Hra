@@ -12,3 +12,8 @@ Skok s prostorem. Sprintujte se Shiftem
 Otevření portálu pomocí Shift
 Zavřete hru pomocí Esc
 
+#### Ovládací prvky projektu:
+- Pohybujte pomocí `W` `A` `S` `D` nebo `↑` `←` `↓` `→`
+- Skok s 'Vesmírem'. Sprintujte pomocí `Shift`
+- Otevření portálu pomocí `Space` nebo `Enter`
+- Zavřete hru pomocí `Esc`
